@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "que final foda.",
-                afirmacao: "esse final foi foda, chorei"
+                afirmacao: "esse final foi foda chorei"
             },
             {
                 texto: "que final merda",
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Goku",
-                afirmacao: "óbvio que não..."
+                afirmacao: "Goku perdeu..."
             },
             {
                 texto: "Saber",
-                afirmacao: "solou o verso de dragon ball..."
+                afirmacao: "Saber solou o verso de dragon ball..."
             }
         ]
     },
