@@ -27,46 +27,46 @@ const perguntas = [
             },
             {
                 texto: "você pensa que o roteiro favoreceu esse personagem.",
-                afirmacao: "personagem lixo, roteiro!"
+                afirmacao: "personagem lixo, se não fosse pelo roteiro ja estaria morto!"
             }
         ]
     },
     {
-            enunciado: "Quando voce começa a avancar os episodios",
+            enunciado: "conforme você avancar os episodios se um anime",
         alternativas: [
             {
-                texto: "Qual a historia daquele personagem?",
+                texto: "aquele personagem e foda demais",
                 afirmacao: "Que personagem foda! qual e a historia dele?."
             },
             {
-                texto: "Conforme os episódios passam você nota segredos.",
+                texto: "aquele personagem e uma merda, nem deveria estar no anime",
                 afirmacao: "Sera que isso vai se revelar?."
             }
         ]
     },
     {
-        enunciado: "Nivel de poder",
+        enunciado: "Final da história",
         alternativas: [
             {
-                texto: "Como esse personagem e tao forte?.",
-                afirmacao: "Como diabos o autor criou um poder ridiculo de forte desse?"
+                texto: "que final foda.",
+                afirmacao: "esse final foi foda, chorei"
             },
             {
-                texto: "Que poder ruim kkkkkkk?",
-                afirmacao: "Alem de ser fracassado, e ruim, feio e fraco, BUXA!"
+                texto: "que final merda",
+                afirmacao: "esse final foi uma merda!"
             }
         ]
     },
     {
-        enunciado: "Final da historia",
+        enunciado: "qual o personagem mais forte dos animes",
         alternativas: [
             {
-                texto: "Que final foda...",
-                afirmacao: "Esse final foi foda, chorei..."
+                texto: "Goku",
+                afirmacao: "óbvio que não..."
             },
             {
-                texto: "Que final merda?",
-                afirmacao: "Esse final foi uma merda..."
+                texto: "Saber",
+                afirmacao: "solou o verso de dragon ball..."
             }
         ]
     },
