@@ -19,15 +19,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "o prota começa a tirar poder",
+        enunciado: "você esta assistindo um anime e apos alguns episódios o protagonista começam a ficar muito overpower",
         alternativas: [
             {
-                texto: "?.",
-                afirmacao: "Você começa a pensar como que aquele personagem vai evoluir, se o roteiro vai favorer o personagem ou não"
+                texto: "você acredita que ele treinou para conseguir esse poder.",
+                afirmacao: "Você começa a pensar como que aquele personagem vai evoluir"
             },
             {
-                texto: "Identificação com os Personagens.",
-                afirmacao: "Você nota que o personagem tem os mesmos problemas que o seu, dois fracassados!"
+                texto: "você pensa que o roteiro favoreceu esse personagem.",
+                afirmacao: "personagem lixo, roteiro!"
             }
         ]
     },
