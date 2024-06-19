@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "Qual o melhor anime do mundo?",
         alternativas: [
             {
-                texto: "Boku no piko",
+                texto: "Boku no pico",
                 afirmacao: "Anime muito bom, o prota gosta muito de sorvete"
             },
             {
