@@ -6,23 +6,23 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quando voce vai assistir anime, Qual o primeiro pensamento?",
+        enunciado: "Qual o melhor anime do mundo?",
         alternativas: [
             {
-                texto: "Quem é o próximo personagem favorito?",
-                afirmacao: "Quem é o próximo personagem favorito? Porque sempre tem aquele personagem que a gente acaba se apegando. Seja o herói determinado, o vilão carismático, ou o coadjuvante que rouba a cena"
+                texto: "Boku no piko",
+                afirmacao: "Anime muito bom, o prota gosta muito de sorvete"
             },
             {
-                texto: "O que será que vai acontecer nesse episódio",
-                afirmacao: "Quando me preparo pra um episódio de anime, Fico pensando no desenrolar da trama, nas reviravoltas e nos segredos que ainda vão ser revelados. É quase como tentar montar um quebra-cabeça gigante onde cada episódio é uma peça importante. Será que aquele personagem misterioso é realmente um vilão ou tem algo mais por trás? E aquele casal que todo mundo shippa, será que vai rolar finalmente?.."
+                texto: "Kaifuku",
+                afirmacao: "O anime de 'vingança'?.."
             }
         ]
     },
     {
-        enunciado: "Personagens",
+        enunciado: "o prota começa a tirar poder",
         alternativas: [
             {
-                texto: "Como será que esse personagem vai evoluir ao longo da história??.",
+                texto: "?.",
                 afirmacao: "Você começa a pensar como que aquele personagem vai evoluir, se o roteiro vai favorer o personagem ou não"
             },
             {
